@@ -311,5 +311,9 @@ registerCommand的第二个参数匿名函数中的代码，在每次该命令�
 2. 写snippets时，测试发现并不生效，跟官方文档对比后，发现少写了一个属性 scope，之前看的教程比较老，没有这个属性也可以，但是看最新文档写的是四个属性都为必填值时才能生效。
 
    ![image-20210330173246357](https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/6a6e948336664311865fb7d2521cdce0~tplv-k3u1fbpfcp-zoom-1.image)
+## 参考资料
 
+   1. [VSCode插件开发全攻略](http://blog.haoji.me/vscode-plugin-overview.html)
+   2. [vscode 插件开发中文文档](https://liiked.github.io/VS-Code-Extension-Doc-ZH/#/)
+   3. [vscode 插件开发英文文档](https://code.visualstudio.com/api)
 
